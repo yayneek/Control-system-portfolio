@@ -1,4 +1,4 @@
-# Control-system-portfolio
+# Portfolio
 
 
 This repository showcases selected projects related to control systems, including underactuated systems and ADRC (Active Disturbance Rejection Control) regulator design and tuning. Each project includes a description of the problem, implementation, and sample results.
@@ -27,6 +27,10 @@ This project focuses on tuning the parameters of an ADRC regulator for the Quans
 
 
 ---
+
+### 4. [ROS2 manipulator](./ROS2)
+**Description**
+This project realizes simple inverse kinematics for serial manipulator. 
 
 
 
