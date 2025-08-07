@@ -1,0 +1,25 @@
+[1.771s] Invoking command in '/home/admin/ros2_ws/src/py_pubsub': PYTHONPATH=/home/admin/ros2_ws/src/build/py_pubsub/prefix_override:/home/admin/ros2_ws/src/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/py_pubsub build --build-base /home/admin/ros2_ws/src/build/py_pubsub/build install --record /home/admin/ros2_ws/src/build/py_pubsub/install.log --single-version-externally-managed
+[2.062s] running egg_info
+[2.065s] writing ../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[2.065s] writing dependency_links to ../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[2.065s] writing entry points to ../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[2.065s] writing requirements to ../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[2.065s] writing top-level names to ../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[2.067s] reading manifest file '../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[2.067s] adding license file 'LICENSE'
+[2.068s] writing manifest file '../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[2.068s] running build
+[2.068s] running build_py
+[2.069s] running install
+[2.069s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.069s]   warnings.warn(
+[2.069s] running install_lib
+[2.071s] running install_data
+[2.071s] running install_egg_info
+[2.074s] removing '/home/admin/ros2_ws/src/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[2.074s] Copying ../build/py_pubsub/py_pubsub.egg-info to /home/admin/ros2_ws/src/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[2.076s] running install_scripts
+[2.102s] Installing listener script to /home/admin/ros2_ws/src/install/py_pubsub/lib/py_pubsub
+[2.103s] Installing talker script to /home/admin/ros2_ws/src/install/py_pubsub/lib/py_pubsub
+[2.104s] writing list of installed files to '/home/admin/ros2_ws/src/build/py_pubsub/install.log'
+[2.280s] Invoked command in '/home/admin/ros2_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/admin/ros2_ws/src/build/py_pubsub/prefix_override:/home/admin/ros2_ws/src/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/py_pubsub build --build-base /home/admin/ros2_ws/src/build/py_pubsub/build install --record /home/admin/ros2_ws/src/build/py_pubsub/install.log --single-version-externally-managed

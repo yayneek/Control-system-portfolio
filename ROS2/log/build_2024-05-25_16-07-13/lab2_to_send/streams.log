@@ -1,0 +1,25 @@
+[1.770s] Invoking command in '/home/admin/ros2_ws/src/lab2_to_send': PYTHONPATH=/home/admin/ros2_ws/src/build/lab2_to_send/prefix_override:/home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/lab2_to_send build --build-base /home/admin/ros2_ws/src/build/lab2_to_send/build install --record /home/admin/ros2_ws/src/build/lab2_to_send/install.log --single-version-externally-managed
+[2.027s] running egg_info
+[2.030s] writing ../build/lab2_to_send/lab2_to_send.egg-info/PKG-INFO
+[2.030s] writing dependency_links to ../build/lab2_to_send/lab2_to_send.egg-info/dependency_links.txt
+[2.031s] writing entry points to ../build/lab2_to_send/lab2_to_send.egg-info/entry_points.txt
+[2.031s] writing requirements to ../build/lab2_to_send/lab2_to_send.egg-info/requires.txt
+[2.031s] writing top-level names to ../build/lab2_to_send/lab2_to_send.egg-info/top_level.txt
+[2.041s] reading manifest file '../build/lab2_to_send/lab2_to_send.egg-info/SOURCES.txt'
+[2.041s] adding license file 'LICENSE'
+[2.042s] writing manifest file '../build/lab2_to_send/lab2_to_send.egg-info/SOURCES.txt'
+[2.042s] running build
+[2.042s] running build_py
+[2.043s] running install
+[2.043s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.043s]   warnings.warn(
+[2.044s] running install_lib
+[2.046s] running install_data
+[2.047s] running install_egg_info
+[2.050s] removing '/home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send-0.0.0-py3.10.egg-info' (and everything under it)
+[2.050s] Copying ../build/lab2_to_send/lab2_to_send.egg-info to /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send-0.0.0-py3.10.egg-info
+[2.051s] running install_scripts
+[2.108s] Installing draw script to /home/admin/ros2_ws/src/install/lab2_to_send/lib/lab2_to_send
+[2.108s] Installing pose_subscriber script to /home/admin/ros2_ws/src/install/lab2_to_send/lib/lab2_to_send
+[2.109s] writing list of installed files to '/home/admin/ros2_ws/src/build/lab2_to_send/install.log'
+[2.230s] Invoked command in '/home/admin/ros2_ws/src/lab2_to_send' returned '0': PYTHONPATH=/home/admin/ros2_ws/src/build/lab2_to_send/prefix_override:/home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/lab2_to_send build --build-base /home/admin/ros2_ws/src/build/lab2_to_send/build install --record /home/admin/ros2_ws/src/build/lab2_to_send/install.log --single-version-externally-managed

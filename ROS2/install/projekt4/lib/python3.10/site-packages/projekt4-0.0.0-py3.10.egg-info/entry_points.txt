@@ -1,0 +1,3 @@
+[console_scripts]
+draw_shape_server = projekt4.draw_shape_server:main
+

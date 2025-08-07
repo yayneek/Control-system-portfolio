@@ -1,0 +1,4 @@
+Invoking command in '/home/admin/ros2_ws/src/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/src/build/tutorial_interfaces -- -j4 -l4
+Invoked command in '/home/admin/ros2_ws/src/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/src/build/tutorial_interfaces -- -j4 -l4
+Invoking command in '/home/admin/ros2_ws/src/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/admin/ros2_ws/src/build/tutorial_interfaces
+Invoked command in '/home/admin/ros2_ws/src/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/admin/ros2_ws/src/build/tutorial_interfaces

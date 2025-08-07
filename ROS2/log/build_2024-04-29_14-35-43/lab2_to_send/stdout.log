@@ -1,0 +1,45 @@
+running egg_info
+creating ../build/lab2_to_send/lab2_to_send.egg-info
+writing ../build/lab2_to_send/lab2_to_send.egg-info/PKG-INFO
+writing dependency_links to ../build/lab2_to_send/lab2_to_send.egg-info/dependency_links.txt
+writing entry points to ../build/lab2_to_send/lab2_to_send.egg-info/entry_points.txt
+writing requirements to ../build/lab2_to_send/lab2_to_send.egg-info/requires.txt
+writing top-level names to ../build/lab2_to_send/lab2_to_send.egg-info/top_level.txt
+writing manifest file '../build/lab2_to_send/lab2_to_send.egg-info/SOURCES.txt'
+reading manifest file '../build/lab2_to_send/lab2_to_send.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/lab2_to_send/lab2_to_send.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/admin/ros2_ws/src/build/lab2_to_send/build
+creating /home/admin/ros2_ws/src/build/lab2_to_send/build/lib
+creating /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send
+copying lab2_to_send/pose_subscriber.py -> /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send
+copying lab2_to_send/__init__.py -> /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send
+copying lab2_to_send/draw.py -> /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send
+copying lab2_to_send/template.py -> /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send
+running install
+running install_lib
+creating /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send
+copying /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send/pose_subscriber.py -> /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send
+copying /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send/__init__.py -> /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send
+copying /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send/draw.py -> /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send
+copying /home/admin/ros2_ws/src/build/lab2_to_send/build/lib/lab2_to_send/template.py -> /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send
+byte-compiling /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send/pose_subscriber.py to pose_subscriber.cpython-310.pyc
+byte-compiling /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send/draw.py to draw.cpython-310.pyc
+byte-compiling /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send/template.py to template.cpython-310.pyc
+running install_data
+creating /home/admin/ros2_ws/src/install/lab2_to_send/share/ament_index
+creating /home/admin/ros2_ws/src/install/lab2_to_send/share/ament_index/resource_index
+creating /home/admin/ros2_ws/src/install/lab2_to_send/share/ament_index/resource_index/packages
+copying resource/lab2_to_send -> /home/admin/ros2_ws/src/install/lab2_to_send/share/ament_index/resource_index/packages
+copying package.xml -> /home/admin/ros2_ws/src/install/lab2_to_send/share/lab2_to_send
+creating /home/admin/ros2_ws/src/install/lab2_to_send/share/lab2_to_send/launch
+copying launch/draw.launch.py -> /home/admin/ros2_ws/src/install/lab2_to_send/share/lab2_to_send/launch
+running install_egg_info
+Copying ../build/lab2_to_send/lab2_to_send.egg-info to /home/admin/ros2_ws/src/install/lab2_to_send/lib/python3.10/site-packages/lab2_to_send-0.0.0-py3.10.egg-info
+running install_scripts
+Installing draw script to /home/admin/ros2_ws/src/install/lab2_to_send/lib/lab2_to_send
+Installing pose_subscriber script to /home/admin/ros2_ws/src/install/lab2_to_send/lib/lab2_to_send
+writing list of installed files to '/home/admin/ros2_ws/src/build/lab2_to_send/install.log'

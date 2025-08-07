@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/launch
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/launch/display.launch.py
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/rviz
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/rviz/urdf.rviz
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/urdf
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/urdf/manipulator_model_with_gripper.urdf
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/urdf/manipulator_model.urdf
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/ament_index/resource_index/package_run_dependencies/my_urdf_pkg
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/ament_index/resource_index/parent_prefix_path/my_urdf_pkg
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/environment/ament_prefix_path.sh
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/environment/path.sh
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/environment/path.dsv
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/local_setup.bash
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/local_setup.sh
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/local_setup.zsh
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/local_setup.dsv
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/package.dsv
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/ament_index/resource_index/packages/my_urdf_pkg
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/cmake/my_urdf_pkgConfig.cmake
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/cmake/my_urdf_pkgConfig-version.cmake
+-- Up-to-date: /home/admin/ros2_ws/src/install/my_urdf_pkg/share/my_urdf_pkg/package.xml

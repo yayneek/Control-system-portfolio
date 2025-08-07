@@ -1,0 +1,25 @@
+[0.910s] Invoking command in '/home/admin/ros2_ws/src/projekt3': PYTHONPATH=/home/admin/ros2_ws/src/build/projekt3/prefix_override:/home/admin/ros2_ws/src/install/projekt3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/projekt3 build --build-base /home/admin/ros2_ws/src/build/projekt3/build install --record /home/admin/ros2_ws/src/build/projekt3/install.log --single-version-externally-managed
+[1.166s] running egg_info
+[1.167s] writing ../build/projekt3/projekt3.egg-info/PKG-INFO
+[1.167s] writing dependency_links to ../build/projekt3/projekt3.egg-info/dependency_links.txt
+[1.167s] writing entry points to ../build/projekt3/projekt3.egg-info/entry_points.txt
+[1.168s] writing requirements to ../build/projekt3/projekt3.egg-info/requires.txt
+[1.169s] writing top-level names to ../build/projekt3/projekt3.egg-info/top_level.txt
+[1.169s] reading manifest file '../build/projekt3/projekt3.egg-info/SOURCES.txt'
+[1.169s] writing manifest file '../build/projekt3/projekt3.egg-info/SOURCES.txt'
+[1.169s] running build
+[1.169s] running build_py
+[1.170s] running install
+[1.170s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.170s]   warnings.warn(
+[1.170s] running install_lib
+[1.173s] running install_data
+[1.173s] running install_egg_info
+[1.174s] removing '/home/admin/ros2_ws/src/install/projekt3/lib/python3.10/site-packages/projekt3-0.0.1-py3.10.egg-info' (and everything under it)
+[1.175s] Copying ../build/projekt3/projekt3.egg-info to /home/admin/ros2_ws/src/install/projekt3/lib/python3.10/site-packages/projekt3-0.0.1-py3.10.egg-info
+[1.176s] running install_scripts
+[1.199s] Installing gripper_client script to /home/admin/ros2_ws/src/install/projekt3/lib/projekt3
+[1.200s] Installing gripper_server script to /home/admin/ros2_ws/src/install/projekt3/lib/projekt3
+[1.200s] Installing inv_kin script to /home/admin/ros2_ws/src/install/projekt3/lib/projekt3
+[1.204s] writing list of installed files to '/home/admin/ros2_ws/src/build/projekt3/install.log'
+[1.239s] Invoked command in '/home/admin/ros2_ws/src/projekt3' returned '0': PYTHONPATH=/home/admin/ros2_ws/src/build/projekt3/prefix_override:/home/admin/ros2_ws/src/install/projekt3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/projekt3 build --build-base /home/admin/ros2_ws/src/build/projekt3/build install --record /home/admin/ros2_ws/src/build/projekt3/install.log --single-version-externally-managed

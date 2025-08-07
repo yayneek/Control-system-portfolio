@@ -1,0 +1,23 @@
+[1.483s] Invoking command in '/home/admin/ros2_ws/src/projekt2': PYTHONPATH=/home/admin/ros2_ws/src/build/projekt2/prefix_override:/home/admin/ros2_ws/src/install/projekt2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/projekt2 build --build-base /home/admin/ros2_ws/src/build/projekt2/build install --record /home/admin/ros2_ws/src/build/projekt2/install.log --single-version-externally-managed
+[1.752s] running egg_info
+[1.753s] writing ../build/projekt2/projekt2.egg-info/PKG-INFO
+[1.753s] writing dependency_links to ../build/projekt2/projekt2.egg-info/dependency_links.txt
+[1.774s] writing entry points to ../build/projekt2/projekt2.egg-info/entry_points.txt
+[1.774s] writing requirements to ../build/projekt2/projekt2.egg-info/requires.txt
+[1.774s] writing top-level names to ../build/projekt2/projekt2.egg-info/top_level.txt
+[1.774s] reading manifest file '../build/projekt2/projekt2.egg-info/SOURCES.txt'
+[1.774s] writing manifest file '../build/projekt2/projekt2.egg-info/SOURCES.txt'
+[1.774s] running build
+[1.774s] running build_py
+[1.774s] running install
+[1.775s] running install_lib
+[1.775s] running install_data
+[1.775s] running install_egg_info
+[1.779s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.779s]   warnings.warn(
+[1.780s] removing '/home/admin/ros2_ws/src/install/projekt2/lib/python3.10/site-packages/projekt2-0.0.0-py3.10.egg-info' (and everything under it)
+[1.781s] Copying ../build/projekt2/projekt2.egg-info to /home/admin/ros2_ws/src/install/projekt2/lib/python3.10/site-packages/projekt2-0.0.0-py3.10.egg-info
+[1.782s] running install_scripts
+[1.807s] Installing forward_kin script to /home/admin/ros2_ws/src/install/projekt2/lib/projekt2
+[1.808s] writing list of installed files to '/home/admin/ros2_ws/src/build/projekt2/install.log'
+[2.099s] Invoked command in '/home/admin/ros2_ws/src/projekt2' returned '0': PYTHONPATH=/home/admin/ros2_ws/src/build/projekt2/prefix_override:/home/admin/ros2_ws/src/install/projekt2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/projekt2 build --build-base /home/admin/ros2_ws/src/build/projekt2/build install --record /home/admin/ros2_ws/src/build/projekt2/install.log --single-version-externally-managed
