@@ -12,8 +12,6 @@ This project revolves around tuning ADRC controller using brute force approach. 
 
 \- Select ADRC settings to minimize tracking error
 
-\- 
-
 
 
 \## Technologies Used
