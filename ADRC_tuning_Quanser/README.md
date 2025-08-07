@@ -1,30 +1,21 @@
-\# Tuning ADRC controller for Quanser underactuated
+# Tuning ADRC Controller for an Underactuated Quanser System
 
+## 📄 Description
 
+This project focuses on tuning an Active Disturbance Rejection Control (ADRC) controller using a brute-force approach.  
+The controller's bandwidth and critical gain were tested within the ranges \[10⁻⁵; 1] and \[1; 10⁵], respectively.
 
-\## Description
+## 🎯 Objective
 
-This project revolves around tuning ADRC controller using brute force approach. Controller bandwidth and critical gain were tested in range \[10^(-5); 1] and \[1; 10^5] respectively. 
+- Select optimal ADRC parameters to minimize tracking error  
 
+## 🛠️ Technologies Used
 
+- MATLAB  
+- Simulink  
 
-\## Objectives
+## ✅ Results
 
-\- Select ADRC settings to minimize tracking error
-
-
-
-\## Technologies Used
-
-\- MATLAB
-
-\- Simulink
-
-
-
-\## Results
-
-ADRC controller tuned using brute force approach. Results of this work are presented in the paper which will be submitted to a high-impact journal. First page of this work is attached in the files below. 
-
-
-
+The ADRC controller was successfully tuned using the brute-force method.  
+The results of this work are presented in a paper that is currently being prepared for submission to a high-impact scientific journal.  
+A preview of the first page is included in the files below.
