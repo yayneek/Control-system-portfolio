@@ -1,7 +1,7 @@
 # Portfolio
 
 
-This repository showcases selected projects related to control systems, including underactuated systems and ADRC (Active Disturbance Rejection Control) regulator design and tuning. Each project includes a description of the problem, implementation, and sample results.
+This repository showcases selected projects related to control systems, including underactuated systems and ADRC (Active Disturbance Rejection Control) regulator design and tuning. Each project includes a description of the problem, implementation, and results.
 
 ---
 
