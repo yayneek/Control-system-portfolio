@@ -29,7 +29,7 @@ This project focuses on tuning the parameters of an ADRC regulator for the Quans
 ---
 
 ### 4. [ROS2 manipulator](./ROS2)
-**Description**
+**Description:**
 This project realizes simple inverse kinematics for serial manipulator. 
 
 
