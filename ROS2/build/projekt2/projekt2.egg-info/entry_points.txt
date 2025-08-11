@@ -1,3 +1,0 @@
-[console_scripts]
-forward_kin = projekt2.forward_kin:main
-

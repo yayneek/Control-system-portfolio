@@ -1,5 +1,0 @@
-[console_scripts]
-gripper_client = projekt3.gripper_client:main
-gripper_server = projekt3.gripper_server:main
-inv_kin = projekt3.inv_kin:main
-

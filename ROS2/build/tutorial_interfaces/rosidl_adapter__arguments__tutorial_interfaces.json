@@ -1,6 +1,0 @@
-{
-  "package_name": "tutorial_interfaces",
-  "non_idl_tuples": [
-    "/home/admin/ros2_ws/src/tutorial_interfaces:action/DrawShape.action"
-  ]
-}
